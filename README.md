@@ -46,13 +46,15 @@ Sensitive columns (`Transaction ID`, `UTR No`, and `Account`) were **removed or 
    - Total Income 💵  
    - Total Expense 💸  
    - Net Balance 📊  
-   - Average Expense 📌  
+   - Average Transaction 📌  
 2. **Trends Section:**  
-   - Line chart: Monthly Income vs Expenses 📈  
+   - Line chart: Monthly Income vs Expenses with forecasts 📈  
 3. **Category Analysis Section:**  
-   - Pie chart: Expense % by category 🥧  
-   - Bar chart: Top recipients/payees 📊  
-4. **Filters / Slicers:** Month-Year, Category, Transaction Type
+   - Pie/Donut chart: Expense % by category 🥧  
+   - Bar chart: Top recipients/payees by category 📊  
+   - Heatmap: Spending intensity by weekday  
+4. **Filters / Slicers:** Month-Year, Category, Transaction Type  
+5. **Drill-through Pages:** Click on a category to see detailed transactions  
    
 ## 🎯 Learning Outcomes / Skills Demonstrated
 - Advanced **data cleaning and transformation** using Power Query  
