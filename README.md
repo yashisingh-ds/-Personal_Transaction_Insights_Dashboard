@@ -1,6 +1,5 @@
 # 💳 Personal_Transaction_Insights_Dashboard
-
-This project is an interactive Power BI dashboard that analyzes personal transaction history to generate actionable financial insights. It showcases data cleaning, transformation, and DAX-based metrics like Total Income, Total Expense, Net Balance, and Average Transaction Amount, alongside interactive visualizations for trends, top payees, and category-wise spending. Designed with a business-focused perspective, it demonstrates the ability to convert raw financial data into strategic insights.
+This project is an interactive Power BI dashboard analyzing personal transaction data to generate actionable financial insights. It features advanced analyses such as recurring vs. one-time transactions, spending forecasts, cash flow health metrics, and category-wise trends, alongside interactive visualizations and DAX-based metrics like Total Income, Total Expense, and Net Balance. Designed with a business-focused perspective, it highlights the ability to turn raw financial data into strategic insights.
 
 ## **Dataset & Preparation**
 The dataset used in this project is **anonymized and synthetic** to ensure privacy. It originally contained the following columns:  
