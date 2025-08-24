@@ -32,8 +32,14 @@ Sensitive columns (`Transaction ID`, `UTR No`, and `Account`) were **removed or 
 - **Monthly Trends** – Visualize monthly income and expense trends to detect high-spending periods.  
 - **Top Recipients & Payers** – Identify entities with the highest transactions.  
 - **Average & Extreme Transactions** – Highlight typical transaction amounts and outliers.  
-- **Interactive Dashboard** – Use slicers for Month, Category, and Transaction Type to dynamically explore insights.
+- **Interactive Dashboard** – Use slicers for Month, Category, and Transaction Type to explore insights dynamically.
 
+  ##  Advanced Analytical Insights ✅
+- Recurring vs one-time transactions to identify subscriptions  
+- Forecasted monthly spending per category  
+- Cash flow health indicators (net balance trends, savings %)  
+- Spending heatmap by weekday and category  
+- Top recipients/payees segmented by transaction category  
   
 ## 🖼️ Dashboard Layout
 1. **Top KPIs Section:**  
@@ -49,13 +55,12 @@ Sensitive columns (`Transaction ID`, `UTR No`, and `Account`) were **removed or 
 4. **Filters / Slicers:** Month-Year, Category, Transaction Type
    
 ## 🎯 Learning Outcomes / Skills Demonstrated
-- Data cleaning and transformation using **Power Query**   
-- Creating dynamic **DAX measures** for business metrics   
-- Designing an interactive and user-friendly **Power BI dashboard**  
-- Generating actionable insights from transaction data   
-- Ensuring **data privacy** by using anonymized datasets 
-
-
+- Advanced **data cleaning and transformation** using Power Query  
+- Creating dynamic and **advanced DAX measures**  
+- Designing an **interactive and user-friendly Power BI dashboard**   
+- Generating **actionable business insights** from financial data  
+- Implementing **privacy-conscious data handling** 
+- Storytelling with data: converting transaction patterns into **decision-ready insights**
 
     
 
